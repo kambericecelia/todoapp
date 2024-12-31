@@ -13,11 +13,11 @@ A simple and user-friendly To-Do app built using Flutter and Hive for local stor
 ## Screenshots
 Here are some screenshots of the app in action:
 ### Home Page
-![Home Page] (assets/images/to_dos.png)
+![Home Page](assets/images/to_dos.png)
 
 ### Everyday Tasks
 
-![Everyday Tasks] (assets/images/everyday_tasks.png)
+![Everyday Tasks](assets/images/everyday_tasks.png)
 
 ## Requirements
 
